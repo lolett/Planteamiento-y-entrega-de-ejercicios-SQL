@@ -22,5 +22,3 @@ WHERE aircraft_code = '733';
 SELECT *
 FROM tickets
 WHERE passenger_name LIKE 'IRINA%';
-
--- 
