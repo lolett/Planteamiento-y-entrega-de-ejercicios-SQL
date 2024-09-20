@@ -1,0 +1,12 @@
+¡Ahora te toca a ti poner en práctica lo aprendido!
+
+Sobre la misma base de datos que hemos instalado anteriormente, te proponemos que realices distintas operaciones de lectura para extraer datos.
+Te dejamos la URL en la que puedes descargar la base de datos para instalarla y realizar los ejercicios planteados
+
+https://postgrespro.com/docs/postgrespro/10/apjs02.html
+
+Te dejamos aquí los enunciados de los ejercicios.
+⚠️ Inténtalo por ti mismo/a, pero si hay algún ejercicio que se resista, no te preocupes, te los explicamos en la siguiente clase.
+
+Abre VSCode en la carpeta donde tengas tu repositorio GitHub y crea un fichero "IntroBBDD.sql"
+Según vayas completando los ejercicios en PostgreSQL, ve copiando las sentencias en el fichero en VSCode.
