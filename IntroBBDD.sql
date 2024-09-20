@@ -13,9 +13,9 @@ SELECT *
 FROM aircrafts_data;
 
 -- 4. Con el resultado anterior visualizado previamente, escribe una consulta que extraiga los identificadores de vuelo que han volado con un Boeing 737. (Código Modelo Avión = 733)
-SELECT *
-FROM aircrafts_data
-WHERE aircraft_code = '733';
+SELECT flight_id, flight_no
+FROM flights
+WHERE aircraft_code = '773'; 
 
 -- 5. Escribe una consulta que te muestre la información detallada de los tickets que han comprado las personas que se llaman Irina.
 -- Tip: Si quieres ver un ejemplo del operador necesario:
