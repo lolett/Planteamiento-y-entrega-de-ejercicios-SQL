@@ -6,7 +6,7 @@ WHERE status = 'On Time';
 -- 2. Escribe una consulta que extraiga todas las columnas de la tabla bookings y refleje todas las reservas que han supuesto una cantidad totSELECTal mayor a 1.000.000 (Unidades monetarias). *Nota: las tablas son públicas de Rusia, por tanto son Rublos sus unidades monetarias
 SELECT *
 FROM bookings
-WHERE total_amount > 1000000;
+WHERE total_amount >= 1000000;
 
 -- 3. Escribe una consulta que extraiga todas las columnas de los datos de los modelos de aviones disponibles (aircraft_data).
 SELECT *
